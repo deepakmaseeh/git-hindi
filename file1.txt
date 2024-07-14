@@ -1,2 +1,5 @@
 this is my file one for git course
-this is the second line of command for =git practice.
+this is the second line of command for =git practice
+
+Bhagwant kesri...
+fixing file 1 whiel working
